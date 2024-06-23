@@ -11,11 +11,11 @@ int n;
 srand(time(0));
 n = rand();
 	if (n > 0)
-	printf("%i is positive\n"), n);
+		printf("is positive\n"), n);
 	else if (n < 0)
-	printf("%i is negative\n"), n);
+		printf("is negative\n"), n);
 	else
-	printf("%i is zero"), n);
+		printf("is zero"), n);
 return (0);
 }
 
