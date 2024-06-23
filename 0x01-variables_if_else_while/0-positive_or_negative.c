@@ -1,25 +1,22 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
  *main - entry point
  *Return: 0 (success)
  **/
 int main(void)
-
 {
+int n;
+srand(time(0));
+n = rand();
+	if (n>0)
+	printf("is positive\n");
+	else if (n<0)
+	printf("is negative\n");
+	else
+	printf("is zero");
+return (0);
+}
 
-  {
-int (n);
-    if(n>0);
-  printf("is positive\n");
-  }
-  {
-    else(n<0);
-    printf("is negative\n");
-  }
-  {
-    elseif(n=0);
-    printf("is zero\n");
-  }
-  
-  
-}.
+
