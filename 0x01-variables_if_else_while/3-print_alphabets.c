@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
-*
 *main - entry point
 *Description: lower and uppercase letters
-*Return: 0 Always success
-*
+*Return: 0 Always successx
 */
 int main(void)
 {
