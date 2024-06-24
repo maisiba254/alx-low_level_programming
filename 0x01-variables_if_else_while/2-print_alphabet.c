@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - Entry point 
+*main - Entry point
 *
 *Description: alphabets in small letters
 *
@@ -11,6 +11,7 @@
 int main(void)
 {
 	int ch;
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);
 return (0);
