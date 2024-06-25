@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-*main - Entry point 
+*main - Entry point
 *Return: 0 Always success
 */
-int main (void)
+int main(void)
 {
 int ch;
 for (ch = 'z'; ch >= 'a'; ch--)
