@@ -16,6 +16,6 @@ if (num != 9)
 		putchar(' ');
 	}
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
