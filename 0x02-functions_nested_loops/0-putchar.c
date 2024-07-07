@@ -3,7 +3,7 @@
 *main - a program that prints _putchar followed by a new line
 *Return: 0
 */
-int main(void);
+int main(void);{
 (
 (int a = "_putchar"
 int i =  0;
@@ -12,5 +12,6 @@ int i =  0;
 	i++;
 
 _putchar('\n');
-return (0);
+return (0);)
 }
+
