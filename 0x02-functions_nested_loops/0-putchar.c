@@ -4,7 +4,7 @@
 *Return: 0
 */
 int main(void);
-{
+(
 int a = "_putchar"
 int i =  0;
 while a = '\0'
