@@ -4,12 +4,12 @@
 *Return: 0
 */
 int main(void);
-(
-int a = "_putchar"
+{
+(int a = "_putchar"
 int i =  0;
-while a = '\0'
-_putchar(a);
-i++;
+	while a = '\0'
+	_putchar(a);
+	i++;
 
 _putchar('\n');
 return (0);
